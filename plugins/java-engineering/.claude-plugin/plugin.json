@@ -1,0 +1,7 @@
+{
+  "name": "java-engineering",
+  "version": "0.1.0",
+  "description": "Standards Java / Spring Boot du socle (pilote : inner-donation-api).",
+  "author": { "name": "myc-public" },
+  "repository": "https://github.com/myc-public/engineering-standards-marketplace"
+}

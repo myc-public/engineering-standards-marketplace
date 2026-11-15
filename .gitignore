@@ -1,0 +1,4 @@
+.env
+*.local.md
+README_local.md
+CLAUDE.local.md

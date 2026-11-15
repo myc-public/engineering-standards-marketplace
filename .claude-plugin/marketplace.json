@@ -1,0 +1,14 @@
+{
+  "name": "engineering-standards-marketplace",
+  "owner": { "name": "myc-public" },
+  "metadata": {
+    "description": "Standards d'ingénierie du socle myc-public, appliqués par des plugins Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "java-engineering",
+      "source": "./plugins/java-engineering",
+      "description": "Standards Java / Spring Boot du socle (pilote : inner-donation-api)."
+    }
+  ]
+}
