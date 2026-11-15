@@ -14,7 +14,7 @@ avancement : [roadmap harness](https://github.com/myc-public/platform-handbook/b
 | `.claude-plugin/marketplace.json` | Catalogue des plugins distribués |
 | `governance/` | Versioning, exceptions, matrice de conformité |
 
-Plugins disponibles : `java-engineering` (pilote : `inner-donation-api`, en construction).
+Plugins disponibles : `java-engineering`, skill `java-spring` (standard `STD-JAVA`, pilote : `inner-donation-api`).
 
 ## Démarrer en local
 
